@@ -19,6 +19,8 @@
 <br><br>
 <img width="830" alt="screenshot" src="https://github.com/user-attachments/assets/b3845006-c8ea-4a74-a735-6f12c5f8e6f1">
 <br><br>
+<img width="830" alt="screenshot" src="https://github.com/user-attachments/assets/f4e55b8b-ea94-4cb7-8722-f74ed04335cd">
+<br><br>
 Páginas visibles únicamente para los managers:
 <img width="830" alt="screenshot" src="https://github.com/user-attachments/assets/4bd139ad-077b-4628-a1a3-f3e5fe7b7a3e">
 <br><br>
