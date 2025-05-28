@@ -17,6 +17,8 @@
   5. Fichajes trabajadores (manager visible)
 <img width="835" alt="screenshot" src="https://github.com/user-attachments/assets/6201caa1-c257-4cc4-9118-a9b262039312">
 <br><br>
+<img width="830" alt="screenshot" src="https://github.com/user-attachments/assets/b3845006-c8ea-4a74-a735-6f12c5f8e6f1">
+<br><br>
 Páginas visibles únicamente para los managers:
 <img width="830" alt="screenshot" src="https://github.com/user-attachments/assets/4bd139ad-077b-4628-a1a3-f3e5fe7b7a3e">
 <br><br>
