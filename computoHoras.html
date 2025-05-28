@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/img/reloj.png"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <title>Clock on</title>
+</head>
+<body>
+    <header class ="header">
+        <h1 class="title">Clock on</h1>
+        <nav class="navContainer">
+            <a href="/index.html">Fichaje</a>
+            <a href="#">Cómputo de horas</a>
+        </nav>
+        <div>
+            <a href="/logIn.html"><svg height="50px" width="50px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60.671 60.671" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <ellipse style="fill:#010002;" cx="30.336" cy="12.097" rx="11.997" ry="12.097"></ellipse> <path style="fill:#010002;" d="M35.64,30.079H25.031c-7.021,0-12.714,5.739-12.714,12.821v17.771h36.037V42.9 C48.354,35.818,42.661,30.079,35.64,30.079z"></path> </g> </g> </g></svg></a>
+        </div>
+    </header>
+
+    <section>
+        <h2 class="subheading">Cómputo de horas</h2>
+        <table class="hoursCountTable">
+        <thead>
+            <tr>
+                <th><label for="clockOn">Hora inicio</label></th>
+                <th><label for="clokOut">Hora final</label></th>
+                <th><label for="category">Categoría</label></th>
+                <th><label for="location">Ubicación</label></th>
+                <th><label for="comments">Observaciones</label></th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <tr>
+                
+            </tr>
+        </tbody>
+        </table>
+    </section>
+    <footer></footer>
+    <script src="./script.js">showTable()</script>
+</body>
+</html>

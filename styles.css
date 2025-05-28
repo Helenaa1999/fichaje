@@ -1,0 +1,481 @@
+
+body{
+    font-family: "Monserrat", sans-serif;
+    margin: 0;
+}
+
+.title{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 3rem;
+}
+
+header{
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    background-color: pink;
+    flex-wrap: wrap;
+}   
+
+.navContainer{
+    display: flex;
+    gap: 2rem;
+}
+
+.navContainer a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.navContainer a::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    width: 0;
+    height: 3px;
+    background-color: white;
+    transition: width 0.4s ease-in-out;
+}
+
+.navContainer a:hover::after{
+    width: 100%;
+}
+
+section{
+    margin: 2% 20% 10% 20%;
+
+}
+
+hr{
+    border: 1px solid lightgray;
+    margin: 2rem 0;
+}
+.subheading{
+    font-size: 30px;
+    position: relative;
+    display:inline-block;
+}
+
+.subheading::after{
+    content: "";
+    position: absolute;
+    left: 10px;
+    bottom: -6px;
+    height: 3px;
+    background-color: pink;
+    width: 100%;
+}
+
+.subheadingHoursContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hoursContainer{
+    border: 2px solid lightgray;
+    padding: 3rem 8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 22px;
+}
+
+.dayCommentsContainer{
+    margin-top: 2rem;
+    border: 2px solid lightgray;
+    border-radius: 10px 10px 0 0;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.commentsContainer, .dayContainer{
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+}
+
+
+.dayCommentsForm{
+    display: flex;
+    gap: 1rem;
+}
+
+.timetableContainer{
+    background-color: rgb(240, 240, 240);
+    border: solid 2px lightgray;
+    padding: 2rem 4rem;
+    border-radius: 0 0 10px 10px;
+    align-self: center;
+}
+
+.timetableContainer table{
+    width: 100%;
+}
+
+table, tr, th, td{
+    text-align: center;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+
+th{
+    padding: 0.5rem;
+    font-size: 20px;
+}
+
+.ausencia-vacaciones{
+    background-color: #ffd700 !important;
+    border-radius: 50%;
+    color: black;
+    font-weight: bold;
+}
+
+.ausencia-medico{
+    background-color: rgb(23, 94, 202);
+}
+
+
+input[type="text"],
+input[type="email"], 
+input[type="password"]{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    font-size: 15px;
+    width: 50%;
+    text-align: center ;
+}
+
+select, option{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    font-size: 15px;
+    width: 100%;
+    text-align: center ;
+}
+
+.buttonsContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+
+input[type="submit"]{
+    background-color: rgb(110, 207, 110);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid rgb(110, 207, 110);
+    font-size: 15px;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: white;
+    color: rgb(110, 207, 110);
+}
+
+.addButton{
+    background-color: rgb(87, 133, 175);
+    color: white;
+    border: 1px solid lightgray;
+    padding: 0.5rem;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.addButton:disabled{
+    cursor: not-allowed;
+}
+
+.addButton:hover{
+    color: rgb(87, 133, 175);
+    background-color: white;
+}
+
+.removeRowBtn{
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 0.5rem;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.removeRowBtn:hover{
+    background-color: rgb(175, 87, 87);
+}
+
+.absenceForm{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.btn{
+    width: 8%;
+    align-self: center;
+}
+
+.absenceCalendar{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+input[type = "file"]{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    font-size: 15px;
+    width: 50%;
+    text-align: center ;
+}
+
+
+.calendar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.vacaciones{
+    background-color: rgb(253, 198, 16) !important;
+    border-radius: 50%;
+}
+
+.medico{
+    background-color: lightblue !important;
+    border-radius: 50%;
+}
+
+.baja{
+    background-color: rgb(209, 63, 63) !important;
+    border-radius: 50%;
+}
+
+.otros {
+    background-color: rgb(121, 197, 121) !important;
+    border-radius: 50%;
+}
+
+.festivo{
+    background-color: lightpink !important;
+    color: #000;
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+
+.legendContainer{
+    border: 1px solid lightgray;
+    width: 20%;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.absenceJustifyForm{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#date{
+    width: 50%;
+}
+
+
+footer{
+    background-color: pink;
+    min-height: 150px;
+}
+
+
+/*Estilos página cómputo de horas*/
+.exportarContainer{
+    display: flex;
+    margin: 1rem 0;
+}
+
+.btnExportar{
+    text-decoration: none;
+    background-color: rgb(87, 133, 175);
+    color: white;
+    border: 1px solid rgb(87, 133, 175);
+    padding: 0.5rem;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btnExportar:hover{
+    color: rgb(87, 133, 175);
+    background-color: white;
+}
+
+.hoursCountTable, thead, tbody, th, td{
+    border-collapse: collapse;
+    border: 2px solid lightgray;
+}
+
+.filterForm{
+    display: flex;
+    gap: 2rem;
+    margin: 1rem 0;
+}
+.filterForm select{
+    width: 30%;
+}
+
+
+/*Estilos página logIn*/
+.logoActivo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 0 45% 10px 45%;
+}
+
+.logInContainer{
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.logInContainer input[type="submit"]{
+    width: 40%;
+    align-self: center;
+}
+
+.logInWorkers, .logInWithoutRegister{
+    border: 2px solid lightgrey;
+    padding: 3rem;
+    width: 40%;
+}
+
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.formContainer div{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.formContainer div input{
+    width: 100%;
+}
+
+
+/*Estilos página lista trabajadores*/
+.elegirTrabajador{
+    width: 40%;
+    
+}
+
+.formSelect{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.selectContainer{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    width: 50%;
+    margin-bottom: 1rem;
+}
+
+.createWorkerBtn{
+    padding: 1rem;
+    background-color: pink;
+    display:inline-block;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    margin: 1rem 0;
+}
+
+.createWorkerBtn:hover{
+    background-color: white;
+    color: pink;
+    border: pink 1px solid;
+
+}
+
+/*Estilos crear trabajador*/
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formNewWorker{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    border: solid 2px lightgray;
+    padding: 3rem;
+    gap: 1rem;
+}
+
+.formNewWorker input[type="submit"], 
+.formNewWorker input[type="text"],
+.formNewWorker input[type="email"],
+.formNewWorker input[type="password"],
+.formNewWorker select{
+    width: 60%;
+    align-self: center;
+    align-items: center;
+}
+
+.success{
+    color:green;
+}
+
+.btnContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    gap: 1rem;
+    align-items: center;
+}
+
+.cerrarSesion{
+    background-color: rgb(175, 87, 87);
+    color: white;
+    border-radius: 10px;
+    border: 1px solid rgb(175, 87, 87);
+    padding: 1rem;
+    font-size: 15px;
+    margin: 1rem 0;
+}
+.cerrarSesion:hover{
+    background-color: white;
+    color: rgb(175, 87, 87);
+    cursor: pointer;
+}
+
+@media (max-width:768px){
+    .subheadingHoursContainer{
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}

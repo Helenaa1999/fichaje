@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "festividad": "Año Nuevo",
+      "año": "2025",
+      "fecha_festivo": "2025-01-01"
+    },
+    {
+      "festividad": "Epifanía del Señor",
+      "año": "2025",
+      "fecha_festivo": "2025-01-06"
+    },
+    {
+      "festividad": "Jueves Santo",
+      "año": "2025",
+      "fecha_festivo": "2025-04-17"
+    },
+    {
+      "festividad": "Viernes Santo",
+      "año": "2025",
+      "fecha_festivo": "2025-04-18"
+    },
+    {
+      "festividad": "Fiesta del Trabajo",
+      "año": "2025",
+      "fecha_festivo": "2025-05-01"
+    },
+    {
+      "festividad": "Fiesta Comunidad de Madrid",
+      "año": "2025",
+      "fecha_festivo": "2025-05-02"
+    },
+    {
+      "festividad": "Santiago Apóstol",
+      "año": "2025",
+      "fecha_festivo": "2025-07-25"
+    },
+    {
+      "festividad": "Asunción de la Virgen",
+      "año": "2025",
+      "fecha_festivo": "2025-08-15"
+    },
+    {
+      "festividad": "Todos los Santos",
+      "año": "2025",
+      "fecha_festivo": "2025-11-01"
+    },
+    {
+      "festividad": "Día de la Constitución Española",
+      "año": "2025",
+      "fecha_festivo": "2025-12-06"
+    },
+    {
+      "festividad": "Inmaculada Concepción",
+      "año": "2025",
+      "fecha_festivo": "2025-12-08"
+    },
+    {
+      "festividad": "Natividad del Señor",
+      "año": "2025",
+      "fecha_festivo": "2025-12-25"
+    }
+  ]
+}

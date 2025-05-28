@@ -1,0 +1,2836 @@
+{
+  "data": [
+    {
+      "municipio_codigo": "002",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ajalvir",
+      "año": "2025",
+      "entidad_nombre": "Ajalvir",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "002",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ajalvir",
+      "año": "2025",
+      "entidad_nombre": "Ajalvir",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "003",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alameda del Valle",
+      "año": "2025",
+      "entidad_nombre": "Alameda del Valle",
+      "fecha_festivo": "2025-07-18"
+    },
+    {
+      "municipio_codigo": "003",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alameda del Valle",
+      "año": "2025",
+      "entidad_nombre": "Alameda del Valle",
+      "fecha_festivo": "2025-07-26"
+    },
+    {
+      "municipio_codigo": "005",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alcalá de Henares",
+      "año": "2025",
+      "entidad_nombre": "Alcalá de Henares",
+      "fecha_festivo": "2025-08-06"
+    },
+    {
+      "municipio_codigo": "005",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alcalá de Henares",
+      "año": "2025",
+      "entidad_nombre": "Alcalá de Henares",
+      "fecha_festivo": "2025-10-09"
+    },
+    {
+      "municipio_codigo": "006",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alcobendas",
+      "año": "2025",
+      "entidad_nombre": "Alcobendas",
+      "fecha_festivo": "2025-01-24"
+    },
+    {
+      "municipio_codigo": "006",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alcobendas",
+      "año": "2025",
+      "entidad_nombre": "Alcobendas",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "007",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alcorcón",
+      "año": "2025",
+      "entidad_nombre": "Alcorcón",
+      "fecha_festivo": "2025-04-21"
+    },
+    {
+      "municipio_codigo": "007",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alcorcón",
+      "año": "2025",
+      "entidad_nombre": "Alcorcón",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "008",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Aldea del Fresno",
+      "año": "2025",
+      "entidad_nombre": "Aldea del Fresno",
+      "fecha_festivo": "2025-01-17"
+    },
+    {
+      "municipio_codigo": "008",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Aldea del Fresno",
+      "año": "2025",
+      "entidad_nombre": "Aldea del Fresno",
+      "fecha_festivo": "2025-06-27"
+    },
+    {
+      "municipio_codigo": "009",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Algete",
+      "año": "2025",
+      "entidad_nombre": "Algete",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "009",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Algete",
+      "año": "2025",
+      "entidad_nombre": "Algete",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "010",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alpedrete",
+      "año": "2025",
+      "entidad_nombre": "Alpedrete",
+      "fecha_festivo": "2025-05-22"
+    },
+    {
+      "municipio_codigo": "010",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Alpedrete",
+      "año": "2025",
+      "entidad_nombre": "Alpedrete",
+      "fecha_festivo": "2025-05-23"
+    },
+    {
+      "municipio_codigo": "011",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ambite",
+      "año": "2025",
+      "entidad_nombre": "Ambite",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "011",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ambite",
+      "año": "2025",
+      "entidad_nombre": "Ambite",
+      "fecha_festivo": "2025-04-30"
+    },
+    {
+      "municipio_codigo": "012",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Anchuelo",
+      "año": "2025",
+      "entidad_nombre": "Anchuelo",
+      "fecha_festivo": "2025-04-29"
+    },
+    {
+      "municipio_codigo": "012",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Anchuelo",
+      "año": "2025",
+      "entidad_nombre": "Anchuelo",
+      "fecha_festivo": "2025-04-30"
+    },
+    {
+      "municipio_codigo": "013",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Aranjuez",
+      "año": "2025",
+      "entidad_nombre": "Aranjuez",
+      "fecha_festivo": "2025-05-30"
+    },
+    {
+      "municipio_codigo": "013",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Aranjuez",
+      "año": "2025",
+      "entidad_nombre": "Aranjuez",
+      "fecha_festivo": "2025-09-05"
+    },
+    {
+      "municipio_codigo": "014",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Arganda del Rey",
+      "año": "2025",
+      "entidad_nombre": "Arganda del Rey",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "014",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Arganda del Rey",
+      "año": "2025",
+      "entidad_nombre": "Arganda del Rey",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "015",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Arroyomolinos",
+      "año": "2025",
+      "entidad_nombre": "Arroyomolinos",
+      "fecha_festivo": "2025-06-19"
+    },
+    {
+      "municipio_codigo": "015",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Arroyomolinos",
+      "año": "2025",
+      "entidad_nombre": "Arroyomolinos",
+      "fecha_festivo": "2025-06-20"
+    },
+    {
+      "municipio_codigo": "017",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Batres",
+      "año": "2025",
+      "entidad_nombre": "Batres",
+      "fecha_festivo": "2025-02-10"
+    },
+    {
+      "municipio_codigo": "017",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Batres",
+      "año": "2025",
+      "entidad_nombre": "Batres",
+      "fecha_festivo": "2025-09-01"
+    },
+    {
+      "municipio_codigo": "018",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Becerril de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Becerril de la Sierra",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "018",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Becerril de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Becerril de la Sierra",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "020",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Berzosa del Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Berzosa del Lozoya",
+      "fecha_festivo": "2025-08-16"
+    },
+    {
+      "municipio_codigo": "020",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Berzosa del Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Berzosa del Lozoya",
+      "fecha_festivo": "2025-12-05"
+    },
+    {
+      "municipio_codigo": "022",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Boadilla del Monte",
+      "año": "2025",
+      "entidad_nombre": "Boadilla del Monte",
+      "fecha_festivo": "2025-05-26"
+    },
+    {
+      "municipio_codigo": "022",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Boadilla del Monte",
+      "año": "2025",
+      "entidad_nombre": "Boadilla del Monte",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "024",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Braojos",
+      "año": "2025",
+      "entidad_nombre": "Braojos",
+      "fecha_festivo": "2025-01-22"
+    },
+    {
+      "municipio_codigo": "024",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Braojos",
+      "año": "2025",
+      "entidad_nombre": "Braojos",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "025",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Brea de Tajo",
+      "año": "2025",
+      "entidad_nombre": "Brea de Tajo",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "025",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Brea de Tajo",
+      "año": "2025",
+      "entidad_nombre": "Brea de Tajo",
+      "fecha_festivo": "2025-10-07"
+    },
+    {
+      "municipio_codigo": "026",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Brunete",
+      "año": "2025",
+      "entidad_nombre": "Brunete",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "026",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Brunete",
+      "año": "2025",
+      "entidad_nombre": "Brunete",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "027",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Buitrago del Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Buitrago del Lozoya",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "027",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Buitrago del Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Buitrago del Lozoya",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "028",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Bustarviejo",
+      "año": "2025",
+      "entidad_nombre": "Bustarviejo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "028",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Bustarviejo",
+      "año": "2025",
+      "entidad_nombre": "Bustarviejo",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "031",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cadalso de los Vidrios",
+      "año": "2025",
+      "entidad_nombre": "Cadalso de los Vidrios",
+      "fecha_festivo": "2025-04-21"
+    },
+    {
+      "municipio_codigo": "031",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cadalso de los Vidrios",
+      "año": "2025",
+      "entidad_nombre": "Cadalso de los Vidrios",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "032",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Camarma de Esteruelas",
+      "año": "2025",
+      "entidad_nombre": "Camarma de Esteruelas",
+      "fecha_festivo": "2025-09-04"
+    },
+    {
+      "municipio_codigo": "032",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Camarma de Esteruelas",
+      "año": "2025",
+      "entidad_nombre": "Camarma de Esteruelas",
+      "fecha_festivo": "2025-09-05"
+    },
+    {
+      "municipio_codigo": "033",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Campo Real",
+      "año": "2025",
+      "entidad_nombre": "Campo Real",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "033",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Campo Real",
+      "año": "2025",
+      "entidad_nombre": "Campo Real",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "034",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Canencia",
+      "año": "2025",
+      "entidad_nombre": "Canencia",
+      "fecha_festivo": "2025-04-21"
+    },
+    {
+      "municipio_codigo": "034",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Canencia",
+      "año": "2025",
+      "entidad_nombre": "Canencia",
+      "fecha_festivo": "2025-10-13"
+    },
+    {
+      "municipio_codigo": "035",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Carabaña",
+      "año": "2025",
+      "entidad_nombre": "Carabaña",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "035",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Carabaña",
+      "año": "2025",
+      "entidad_nombre": "Carabaña",
+      "fecha_festivo": "2025-12-12"
+    },
+    {
+      "municipio_codigo": "036",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Casarrubuelos",
+      "año": "2025",
+      "entidad_nombre": "Casarrubuelos",
+      "fecha_festivo": "2025-04-30"
+    },
+    {
+      "municipio_codigo": "036",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Casarrubuelos",
+      "año": "2025",
+      "entidad_nombre": "Casarrubuelos",
+      "fecha_festivo": "2025-07-24"
+    },
+    {
+      "municipio_codigo": "037",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cenicientos",
+      "año": "2025",
+      "entidad_nombre": "Cenicientos",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "037",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cenicientos",
+      "año": "2025",
+      "entidad_nombre": "Cenicientos",
+      "fecha_festivo": "2025-12-26"
+    },
+    {
+      "municipio_codigo": "038",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cercedilla",
+      "año": "2025",
+      "entidad_nombre": "Cercedilla",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "038",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cercedilla",
+      "año": "2025",
+      "entidad_nombre": "Cercedilla",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "039",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cervera de Buitrago",
+      "año": "2025",
+      "entidad_nombre": "Cervera de Buitrago",
+      "fecha_festivo": "2025-07-28"
+    },
+    {
+      "municipio_codigo": "039",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cervera de Buitrago",
+      "año": "2025",
+      "entidad_nombre": "Cervera de Buitrago",
+      "fecha_festivo": "2025-12-22"
+    },
+    {
+      "municipio_codigo": "051",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Chapinería",
+      "año": "2025",
+      "entidad_nombre": "Chapinería",
+      "fecha_festivo": "2025-03-03"
+    },
+    {
+      "municipio_codigo": "051",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Chapinería",
+      "año": "2025",
+      "entidad_nombre": "Chapinería",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "052",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Chinchón",
+      "año": "2025",
+      "entidad_nombre": "Chinchón",
+      "fecha_festivo": "2025-08-13"
+    },
+    {
+      "municipio_codigo": "052",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Chinchón",
+      "año": "2025",
+      "entidad_nombre": "Chinchón",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "040",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ciempozuelos",
+      "año": "2025",
+      "entidad_nombre": "Ciempozuelos",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "040",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ciempozuelos",
+      "año": "2025",
+      "entidad_nombre": "Ciempozuelos",
+      "fecha_festivo": "2025-09-16"
+    },
+    {
+      "municipio_codigo": "041",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cobeña",
+      "año": "2025",
+      "entidad_nombre": "Cobeña",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "041",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cobeña",
+      "año": "2025",
+      "entidad_nombre": "Cobeña",
+      "fecha_festivo": "2025-10-03"
+    },
+    {
+      "municipio_codigo": "046",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Collado Mediano",
+      "año": "2025",
+      "entidad_nombre": "Collado Mediano",
+      "fecha_festivo": "2025-01-23"
+    },
+    {
+      "municipio_codigo": "046",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Collado Mediano",
+      "año": "2025",
+      "entidad_nombre": "Collado Mediano",
+      "fecha_festivo": "2025-01-24"
+    },
+    {
+      "municipio_codigo": "047",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Collado Villalba",
+      "año": "2025",
+      "entidad_nombre": "Collado Villalba",
+      "fecha_festivo": "2025-06-13"
+    },
+    {
+      "municipio_codigo": "047",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Collado Villalba",
+      "año": "2025",
+      "entidad_nombre": "Collado Villalba",
+      "fecha_festivo": "2025-07-24"
+    },
+    {
+      "municipio_codigo": "043",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenar de Oreja",
+      "año": "2025",
+      "entidad_nombre": "Colmenar de Oreja",
+      "fecha_festivo": "2025-04-30"
+    },
+    {
+      "municipio_codigo": "043",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenar de Oreja",
+      "año": "2025",
+      "entidad_nombre": "Colmenar de Oreja",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "042",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenar del Arroyo",
+      "año": "2025",
+      "entidad_nombre": "Colmenar del Arroyo",
+      "fecha_festivo": "2025-01-22"
+    },
+    {
+      "municipio_codigo": "042",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenar del Arroyo",
+      "año": "2025",
+      "entidad_nombre": "Colmenar del Arroyo",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "045",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenar Viejo",
+      "año": "2025",
+      "entidad_nombre": "Colmenar Viejo",
+      "fecha_festivo": "2025-09-01"
+    },
+    {
+      "municipio_codigo": "045",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenar Viejo",
+      "año": "2025",
+      "entidad_nombre": "Colmenar Viejo",
+      "fecha_festivo": "2025-09-02"
+    },
+    {
+      "municipio_codigo": "044",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenarejo",
+      "año": "2025",
+      "entidad_nombre": "Colmenarejo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "044",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Colmenarejo",
+      "año": "2025",
+      "entidad_nombre": "Colmenarejo",
+      "fecha_festivo": "2025-11-10"
+    },
+    {
+      "municipio_codigo": "048",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Corpa",
+      "año": "2025",
+      "entidad_nombre": "Corpa",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "048",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Corpa",
+      "año": "2025",
+      "entidad_nombre": "Corpa",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "049",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Coslada",
+      "año": "2025",
+      "entidad_nombre": "Coslada",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "049",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Coslada",
+      "año": "2025",
+      "entidad_nombre": "Coslada",
+      "fecha_festivo": "2025-06-09"
+    },
+    {
+      "municipio_codigo": "050",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cubas de la Sagra",
+      "año": "2025",
+      "entidad_nombre": "Cubas de la Sagra",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "050",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Cubas de la Sagra",
+      "año": "2025",
+      "entidad_nombre": "Cubas de la Sagra",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "053",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Daganzo de Arriba",
+      "año": "2025",
+      "entidad_nombre": "Daganzo de Arriba",
+      "fecha_festivo": "2025-06-13"
+    },
+    {
+      "municipio_codigo": "053",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Daganzo de Arriba",
+      "año": "2025",
+      "entidad_nombre": "Daganzo de Arriba",
+      "fecha_festivo": "2025-09-01"
+    },
+    {
+      "municipio_codigo": "004",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Álamo",
+      "año": "2025",
+      "entidad_nombre": "El Álamo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "004",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Álamo",
+      "año": "2025",
+      "entidad_nombre": "El Álamo",
+      "fecha_festivo": "2025-09-02"
+    },
+    {
+      "municipio_codigo": "016",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Atazar",
+      "año": "2025",
+      "entidad_nombre": "El Atazar",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "016",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Atazar",
+      "año": "2025",
+      "entidad_nombre": "El Atazar",
+      "fecha_festivo": "2025-11-25"
+    },
+    {
+      "municipio_codigo": "021",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Berrueco",
+      "año": "2025",
+      "entidad_nombre": "El Berrueco",
+      "fecha_festivo": "2025-05-12"
+    },
+    {
+      "municipio_codigo": "021",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Berrueco",
+      "año": "2025",
+      "entidad_nombre": "El Berrueco",
+      "fecha_festivo": "2025-05-13"
+    },
+    {
+      "municipio_codigo": "023",
+      "entidad_codigo": "02",
+      "municipio_nombre": "El Boalo",
+      "año": "2025",
+      "entidad_nombre": "Cerceda",
+      "fecha_festivo": "2025-05-03"
+    },
+    {
+      "municipio_codigo": "023",
+      "entidad_codigo": "02",
+      "municipio_nombre": "El Boalo",
+      "año": "2025",
+      "entidad_nombre": "Cerceda",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "023",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Boalo",
+      "año": "2025",
+      "entidad_nombre": "El Boalo",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "023",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Boalo",
+      "año": "2025",
+      "entidad_nombre": "El Boalo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "023",
+      "entidad_codigo": "03",
+      "municipio_nombre": "El Boalo",
+      "año": "2025",
+      "entidad_nombre": "Mataelpino",
+      "fecha_festivo": "2025-02-05"
+    },
+    {
+      "municipio_codigo": "023",
+      "entidad_codigo": "03",
+      "municipio_nombre": "El Boalo",
+      "año": "2025",
+      "entidad_nombre": "Mataelpino",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "054",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Escorial",
+      "año": "2025",
+      "entidad_nombre": "El Escorial",
+      "fecha_festivo": "2025-06-11"
+    },
+    {
+      "municipio_codigo": "054",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Escorial",
+      "año": "2025",
+      "entidad_nombre": "El Escorial",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "086",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Molar",
+      "año": "2025",
+      "entidad_nombre": "El Molar",
+      "fecha_festivo": "2025-05-29"
+    },
+    {
+      "municipio_codigo": "086",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Molar",
+      "año": "2025",
+      "entidad_nombre": "El Molar",
+      "fecha_festivo": "2025-05-30"
+    },
+    {
+      "municipio_codigo": "168",
+      "entidad_codigo": "01",
+      "municipio_nombre": "El Vellón",
+      "año": "2025",
+      "entidad_nombre": "El Espartal",
+      "fecha_festivo": "2025-03-19"
+    },
+    {
+      "municipio_codigo": "168",
+      "entidad_codigo": "01",
+      "municipio_nombre": "El Vellón",
+      "año": "2025",
+      "entidad_nombre": "El Espartal",
+      "fecha_festivo": "2025-10-13"
+    },
+    {
+      "municipio_codigo": "168",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Vellón",
+      "año": "2025",
+      "entidad_nombre": "El Vellón",
+      "fecha_festivo": "2025-10-03"
+    },
+    {
+      "municipio_codigo": "168",
+      "entidad_codigo": "00",
+      "municipio_nombre": "El Vellón",
+      "año": "2025",
+      "entidad_nombre": "El Vellón",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "055",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Estremera",
+      "año": "2025",
+      "entidad_nombre": "Estremera",
+      "fecha_festivo": "2025-10-13"
+    },
+    {
+      "municipio_codigo": "055",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Estremera",
+      "año": "2025",
+      "entidad_nombre": "Estremera",
+      "fecha_festivo": "2025-10-14"
+    },
+    {
+      "municipio_codigo": "056",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fresnedillas de la Oliva",
+      "año": "2025",
+      "entidad_nombre": "Fresnedillas de la Oliva",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "056",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fresnedillas de la Oliva",
+      "año": "2025",
+      "entidad_nombre": "Fresnedillas de la Oliva",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "057",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fresno de Torote",
+      "año": "2025",
+      "entidad_nombre": "Fresno de Torote",
+      "fecha_festivo": "2025-02-28"
+    },
+    {
+      "municipio_codigo": "057",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fresno de Torote",
+      "año": "2025",
+      "entidad_nombre": "Fresno de Torote",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "058",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fuenlabrada",
+      "año": "2025",
+      "entidad_nombre": "Fuenlabrada",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "058",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fuenlabrada",
+      "año": "2025",
+      "entidad_nombre": "Fuenlabrada",
+      "fecha_festivo": "2025-12-26"
+    },
+    {
+      "municipio_codigo": "059",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fuente el Saz de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Fuente el Saz de Jarama",
+      "fecha_festivo": "2025-09-06"
+    },
+    {
+      "municipio_codigo": "059",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fuente el Saz de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Fuente el Saz de Jarama",
+      "fecha_festivo": "2025-09-09"
+    },
+    {
+      "municipio_codigo": "060",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fuentidueña de Tajo",
+      "año": "2025",
+      "entidad_nombre": "Fuentidueña de Tajo",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "060",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Fuentidueña de Tajo",
+      "año": "2025",
+      "entidad_nombre": "Fuentidueña de Tajo",
+      "fecha_festivo": "2025-09-16"
+    },
+    {
+      "municipio_codigo": "061",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Galapagar",
+      "año": "2025",
+      "entidad_nombre": "Galapagar",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "061",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Galapagar",
+      "año": "2025",
+      "entidad_nombre": "Galapagar",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "062",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Garganta de los Montes",
+      "año": "2025",
+      "entidad_nombre": "Garganta de los Montes",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "062",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Garganta de los Montes",
+      "año": "2025",
+      "entidad_nombre": "Garganta de los Montes",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "063",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "año": "2025",
+      "entidad_nombre": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "fecha_festivo": "2025-03-21"
+    },
+    {
+      "municipio_codigo": "063",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "año": "2025",
+      "entidad_nombre": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "064",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Gascones",
+      "año": "2025",
+      "entidad_nombre": "Gascones",
+      "fecha_festivo": "2025-08-04"
+    },
+    {
+      "municipio_codigo": "064",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Gascones",
+      "año": "2025",
+      "entidad_nombre": "Gascones",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "065",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Getafe",
+      "año": "2025",
+      "entidad_nombre": "Getafe",
+      "fecha_festivo": "2025-05-29"
+    },
+    {
+      "municipio_codigo": "065",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Getafe",
+      "año": "2025",
+      "entidad_nombre": "Getafe",
+      "fecha_festivo": "2025-06-09"
+    },
+    {
+      "municipio_codigo": "066",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Griñón",
+      "año": "2025",
+      "entidad_nombre": "Griñón",
+      "fecha_festivo": "2025-06-17"
+    },
+    {
+      "municipio_codigo": "066",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Griñón",
+      "año": "2025",
+      "entidad_nombre": "Griñón",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "067",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Guadalix de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Guadalix de la Sierra",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "067",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Guadalix de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Guadalix de la Sierra",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "068",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Guadarrama",
+      "año": "2025",
+      "entidad_nombre": "Guadarrama",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "068",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Guadarrama",
+      "año": "2025",
+      "entidad_nombre": "Guadarrama",
+      "fecha_festivo": "2025-10-04"
+    },
+    {
+      "municipio_codigo": "070",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Horcajo de la Sierra-Aoslos",
+      "año": "2025",
+      "entidad_nombre": "Horcajo de la Sierra-Aoslos",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "070",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Horcajo de la Sierra-Aoslos",
+      "año": "2025",
+      "entidad_nombre": "Horcajo de la Sierra-Aoslos",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "071",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Horcajuelo de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Horcajuelo de la Sierra",
+      "fecha_festivo": "2025-06-13"
+    },
+    {
+      "municipio_codigo": "071",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Horcajuelo de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Horcajuelo de la Sierra",
+      "fecha_festivo": "2025-12-05"
+    },
+    {
+      "municipio_codigo": "072",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Hoyo de Manzanares",
+      "año": "2025",
+      "entidad_nombre": "Hoyo de Manzanares",
+      "fecha_festivo": "2025-09-05"
+    },
+    {
+      "municipio_codigo": "072",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Hoyo de Manzanares",
+      "año": "2025",
+      "entidad_nombre": "Hoyo de Manzanares",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "073",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Humanes de Madrid",
+      "año": "2025",
+      "entidad_nombre": "Humanes de Madrid",
+      "fecha_festivo": "2025-08-08"
+    },
+    {
+      "municipio_codigo": "073",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Humanes de Madrid",
+      "año": "2025",
+      "entidad_nombre": "Humanes de Madrid",
+      "fecha_festivo": "2025-09-22"
+    },
+    {
+      "municipio_codigo": "001",
+      "entidad_codigo": "00",
+      "municipio_nombre": "La Acebeda",
+      "año": "2025",
+      "entidad_nombre": "La Acebeda",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "001",
+      "entidad_codigo": "00",
+      "municipio_nombre": "La Acebeda",
+      "año": "2025",
+      "entidad_nombre": "La Acebeda",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "030",
+      "entidad_codigo": "00",
+      "municipio_nombre": "La Cabrera",
+      "año": "2025",
+      "entidad_nombre": "La Cabrera",
+      "fecha_festivo": "2025-06-13"
+    },
+    {
+      "municipio_codigo": "030",
+      "entidad_codigo": "00",
+      "municipio_nombre": "La Cabrera",
+      "año": "2025",
+      "entidad_nombre": "La Cabrera",
+      "fecha_festivo": "2025-10-17"
+    },
+    {
+      "municipio_codigo": "138",
+      "entidad_codigo": "00",
+      "municipio_nombre": "La Serna del Monte",
+      "año": "2025",
+      "entidad_nombre": "La Serna del Monte",
+      "fecha_festivo": "2025-08-28"
+    },
+    {
+      "municipio_codigo": "138",
+      "entidad_codigo": "00",
+      "municipio_nombre": "La Serna del Monte",
+      "año": "2025",
+      "entidad_nombre": "La Serna del Monte",
+      "fecha_festivo": "2025-08-29"
+    },
+    {
+      "municipio_codigo": "127",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Las Rozas de Madrid",
+      "año": "2025",
+      "entidad_nombre": "Las Rozas de Madrid",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "127",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Las Rozas de Madrid",
+      "año": "2025",
+      "entidad_nombre": "Las Rozas de Madrid",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "074",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Leganés",
+      "año": "2025",
+      "entidad_nombre": "Leganés",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "074",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Leganés",
+      "año": "2025",
+      "entidad_nombre": "Leganés",
+      "fecha_festivo": "2025-10-10"
+    },
+    {
+      "municipio_codigo": "075",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Loeches",
+      "año": "2025",
+      "entidad_nombre": "Loeches",
+      "fecha_festivo": "2025-09-11"
+    },
+    {
+      "municipio_codigo": "075",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Loeches",
+      "año": "2025",
+      "entidad_nombre": "Loeches",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "087",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Los Molinos",
+      "año": "2025",
+      "entidad_nombre": "Los Molinos",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "087",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Los Molinos",
+      "año": "2025",
+      "entidad_nombre": "Los Molinos",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "137",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Los Santos de la Humosa",
+      "año": "2025",
+      "entidad_nombre": "Los Santos de la Humosa",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "137",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Los Santos de la Humosa",
+      "año": "2025",
+      "entidad_nombre": "Los Santos de la Humosa",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "076",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Lozoya",
+      "fecha_festivo": "2025-08-06"
+    },
+    {
+      "municipio_codigo": "076",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Lozoya",
+      "fecha_festivo": "2025-10-07"
+    },
+    {
+      "municipio_codigo": "901",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Lozoyuela-Navas-Sieteiglesias",
+      "año": "2025",
+      "entidad_nombre": "Lozoyuela-Navas-Sieteiglesias",
+      "fecha_festivo": "2025-09-22"
+    },
+    {
+      "municipio_codigo": "901",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Lozoyuela-Navas-Sieteiglesias",
+      "año": "2025",
+      "entidad_nombre": "Lozoyuela-Navas-Sieteiglesias",
+      "fecha_festivo": "2025-12-05"
+    },
+    {
+      "municipio_codigo": "078",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Madarcos",
+      "año": "2025",
+      "entidad_nombre": "Madarcos",
+      "fecha_festivo": "2025-03-03"
+    },
+    {
+      "municipio_codigo": "078",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Madarcos",
+      "año": "2025",
+      "entidad_nombre": "Madarcos",
+      "fecha_festivo": "2025-07-28"
+    },
+    {
+      "municipio_codigo": "079",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Madrid",
+      "año": "2025",
+      "entidad_nombre": "Madrid",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "079",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Madrid",
+      "año": "2025",
+      "entidad_nombre": "Madrid",
+      "fecha_festivo": "2025-11-10"
+    },
+    {
+      "municipio_codigo": "080",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Majadahonda",
+      "año": "2025",
+      "entidad_nombre": "Majadahonda",
+      "fecha_festivo": "2025-09-14"
+    },
+    {
+      "municipio_codigo": "080",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Majadahonda",
+      "año": "2025",
+      "entidad_nombre": "Majadahonda",
+      "fecha_festivo": "2025-11-25"
+    },
+    {
+      "municipio_codigo": "082",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Manzanares el Real",
+      "año": "2025",
+      "entidad_nombre": "Manzanares el Real",
+      "fecha_festivo": "2025-06-09"
+    },
+    {
+      "municipio_codigo": "082",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Manzanares el Real",
+      "año": "2025",
+      "entidad_nombre": "Manzanares el Real",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "083",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Meco",
+      "año": "2025",
+      "entidad_nombre": "Meco",
+      "fecha_festivo": "2025-09-11"
+    },
+    {
+      "municipio_codigo": "083",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Meco",
+      "año": "2025",
+      "entidad_nombre": "Meco",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "084",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Mejorada del Campo",
+      "año": "2025",
+      "entidad_nombre": "Mejorada del Campo",
+      "fecha_festivo": "2025-09-22"
+    },
+    {
+      "municipio_codigo": "084",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Mejorada del Campo",
+      "año": "2025",
+      "entidad_nombre": "Mejorada del Campo",
+      "fecha_festivo": "2025-09-23"
+    },
+    {
+      "municipio_codigo": "085",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Miraflores de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Miraflores de la Sierra",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "085",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Miraflores de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Miraflores de la Sierra",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "089",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Moraleja de Enmedio",
+      "año": "2025",
+      "entidad_nombre": "Moraleja de Enmedio",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "089",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Moraleja de Enmedio",
+      "año": "2025",
+      "entidad_nombre": "Moraleja de Enmedio",
+      "fecha_festivo": "2025-09-09"
+    },
+    {
+      "municipio_codigo": "090",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Moralzarzal",
+      "año": "2025",
+      "entidad_nombre": "Moralzarzal",
+      "fecha_festivo": "2025-09-18"
+    },
+    {
+      "municipio_codigo": "090",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Moralzarzal",
+      "año": "2025",
+      "entidad_nombre": "Moralzarzal",
+      "fecha_festivo": "2025-09-19"
+    },
+    {
+      "municipio_codigo": "091",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Morata de Tajuña",
+      "año": "2025",
+      "entidad_nombre": "Morata de Tajuña",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "091",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Morata de Tajuña",
+      "año": "2025",
+      "entidad_nombre": "Morata de Tajuña",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "092",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Móstoles",
+      "año": "2025",
+      "entidad_nombre": "Móstoles",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "092",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Móstoles",
+      "año": "2025",
+      "entidad_nombre": "Móstoles",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "093",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navacerrada",
+      "año": "2025",
+      "entidad_nombre": "Navacerrada",
+      "fecha_festivo": "2025-06-13"
+    },
+    {
+      "municipio_codigo": "093",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navacerrada",
+      "año": "2025",
+      "entidad_nombre": "Navacerrada",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "094",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navalafuente",
+      "año": "2025",
+      "entidad_nombre": "Navalafuente",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "094",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navalafuente",
+      "año": "2025",
+      "entidad_nombre": "Navalafuente",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "095",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navalagamella",
+      "año": "2025",
+      "entidad_nombre": "Navalagamella",
+      "fecha_festivo": "2025-05-08"
+    },
+    {
+      "municipio_codigo": "095",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navalagamella",
+      "año": "2025",
+      "entidad_nombre": "Navalagamella",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "096",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navalcarnero",
+      "año": "2025",
+      "entidad_nombre": "Navalcarnero",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "096",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navalcarnero",
+      "año": "2025",
+      "entidad_nombre": "Navalcarnero",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "097",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navarredonda y San Mamés",
+      "año": "2025",
+      "entidad_nombre": "Navarredonda y San Mamés",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "097",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navarredonda y San Mamés",
+      "año": "2025",
+      "entidad_nombre": "Navarredonda y San Mamés",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "099",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navas del Rey",
+      "año": "2025",
+      "entidad_nombre": "Navas del Rey",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "099",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Navas del Rey",
+      "año": "2025",
+      "entidad_nombre": "Navas del Rey",
+      "fecha_festivo": "2025-09-09"
+    },
+    {
+      "municipio_codigo": "100",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Nuevo Baztán",
+      "año": "2025",
+      "entidad_nombre": "Nuevo Baztán",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "100",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Nuevo Baztán",
+      "año": "2025",
+      "entidad_nombre": "Nuevo Baztán",
+      "fecha_festivo": "2025-12-03"
+    },
+    {
+      "municipio_codigo": "101",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Olmeda de las Fuentes",
+      "año": "2025",
+      "entidad_nombre": "Olmeda de las Fuentes",
+      "fecha_festivo": "2025-04-21"
+    },
+    {
+      "municipio_codigo": "101",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Olmeda de las Fuentes",
+      "año": "2025",
+      "entidad_nombre": "Olmeda de las Fuentes",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "102",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Orusco de Tajuña",
+      "año": "2025",
+      "entidad_nombre": "Orusco de Tajuña",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "102",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Orusco de Tajuña",
+      "año": "2025",
+      "entidad_nombre": "Orusco de Tajuña",
+      "fecha_festivo": "2025-12-29"
+    },
+    {
+      "municipio_codigo": "104",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Paracuellos de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Paracuellos de Jarama",
+      "fecha_festivo": "2025-06-09"
+    },
+    {
+      "municipio_codigo": "104",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Paracuellos de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Paracuellos de Jarama",
+      "fecha_festivo": "2025-06-10"
+    },
+    {
+      "municipio_codigo": "106",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Parla",
+      "año": "2025",
+      "entidad_nombre": "Parla",
+      "fecha_festivo": "2025-06-23"
+    },
+    {
+      "municipio_codigo": "106",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Parla",
+      "año": "2025",
+      "entidad_nombre": "Parla",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "108",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pedrezuela",
+      "año": "2025",
+      "entidad_nombre": "Pedrezuela",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "108",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pedrezuela",
+      "año": "2025",
+      "entidad_nombre": "Pedrezuela",
+      "fecha_festivo": "2025-09-30"
+    },
+    {
+      "municipio_codigo": "109",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pelayos de la Presa",
+      "año": "2025",
+      "entidad_nombre": "Pelayos de la Presa",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "109",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pelayos de la Presa",
+      "año": "2025",
+      "entidad_nombre": "Pelayos de la Presa",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "110",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Perales de Tajuña",
+      "año": "2025",
+      "entidad_nombre": "Perales de Tajuña",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "110",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Perales de Tajuña",
+      "año": "2025",
+      "entidad_nombre": "Perales de Tajuña",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "111",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pezuela de las Torres",
+      "año": "2025",
+      "entidad_nombre": "Pezuela de las Torres",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "111",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pezuela de las Torres",
+      "año": "2025",
+      "entidad_nombre": "Pezuela de las Torres",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "112",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pinilla del Valle",
+      "año": "2025",
+      "entidad_nombre": "Pinilla del Valle",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "112",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pinilla del Valle",
+      "año": "2025",
+      "entidad_nombre": "Pinilla del Valle",
+      "fecha_festivo": "2025-09-30"
+    },
+    {
+      "municipio_codigo": "113",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pinto",
+      "año": "2025",
+      "entidad_nombre": "Pinto",
+      "fecha_festivo": "2025-03-19"
+    },
+    {
+      "municipio_codigo": "113",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pinto",
+      "año": "2025",
+      "entidad_nombre": "Pinto",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "114",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Piñuécar-Gandullas",
+      "año": "2025",
+      "entidad_nombre": "Piñuécar-Gandullas",
+      "fecha_festivo": "2025-01-24"
+    },
+    {
+      "municipio_codigo": "114",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Piñuécar-Gandullas",
+      "año": "2025",
+      "entidad_nombre": "Piñuécar-Gandullas",
+      "fecha_festivo": "2025-10-07"
+    },
+    {
+      "municipio_codigo": "115",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pozuelo de Alarcón",
+      "año": "2025",
+      "entidad_nombre": "Pozuelo de Alarcón",
+      "fecha_festivo": "2025-07-16"
+    },
+    {
+      "municipio_codigo": "115",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pozuelo de Alarcón",
+      "año": "2025",
+      "entidad_nombre": "Pozuelo de Alarcón",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "116",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pozuelo del Rey",
+      "año": "2025",
+      "entidad_nombre": "Pozuelo del Rey",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "116",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Pozuelo del Rey",
+      "año": "2025",
+      "entidad_nombre": "Pozuelo del Rey",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "117",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Prádena del Rincón",
+      "año": "2025",
+      "entidad_nombre": "Prádena del Rincón",
+      "fecha_festivo": "2025-07-16"
+    },
+    {
+      "municipio_codigo": "117",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Prádena del Rincón",
+      "año": "2025",
+      "entidad_nombre": "Prádena del Rincón",
+      "fecha_festivo": "2025-10-10"
+    },
+    {
+      "municipio_codigo": "118",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Puebla de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Puebla de la Sierra",
+      "fecha_festivo": "2025-04-25"
+    },
+    {
+      "municipio_codigo": "118",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Puebla de la Sierra",
+      "año": "2025",
+      "entidad_nombre": "Puebla de la Sierra",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "902",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Puentes Viejas",
+      "año": "2025",
+      "entidad_nombre": "Puentes Viejas",
+      "fecha_festivo": "2025-07-07"
+    },
+    {
+      "municipio_codigo": "902",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Puentes Viejas",
+      "año": "2025",
+      "entidad_nombre": "Puentes Viejas",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "119",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Quijorna",
+      "año": "2025",
+      "entidad_nombre": "Quijorna",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "119",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Quijorna",
+      "año": "2025",
+      "entidad_nombre": "Quijorna",
+      "fecha_festivo": "2025-12-26"
+    },
+    {
+      "municipio_codigo": "120",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Rascafría",
+      "año": "2025",
+      "entidad_nombre": "Rascafría",
+      "fecha_festivo": "2025-08-16"
+    },
+    {
+      "municipio_codigo": "120",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Rascafría",
+      "año": "2025",
+      "entidad_nombre": "Rascafría",
+      "fecha_festivo": "2025-12-01"
+    },
+    {
+      "municipio_codigo": "121",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Redueña",
+      "año": "2025",
+      "entidad_nombre": "Redueña",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "121",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Redueña",
+      "año": "2025",
+      "entidad_nombre": "Redueña",
+      "fecha_festivo": "2025-12-12"
+    },
+    {
+      "municipio_codigo": "122",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ribatejada",
+      "año": "2025",
+      "entidad_nombre": "Ribatejada",
+      "fecha_festivo": "2025-05-30"
+    },
+    {
+      "municipio_codigo": "122",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Ribatejada",
+      "año": "2025",
+      "entidad_nombre": "Ribatejada",
+      "fecha_festivo": "2025-08-29"
+    },
+    {
+      "municipio_codigo": "123",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Rivas-Vaciamadrid",
+      "año": "2025",
+      "entidad_nombre": "Rivas-Vaciamadrid",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "123",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Rivas-Vaciamadrid",
+      "año": "2025",
+      "entidad_nombre": "Rivas-Vaciamadrid",
+      "fecha_festivo": "2025-05-16"
+    },
+    {
+      "municipio_codigo": "124",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Robledillo de la Jara",
+      "año": "2025",
+      "entidad_nombre": "Robledillo de la Jara",
+      "fecha_festivo": "2025-08-11"
+    },
+    {
+      "municipio_codigo": "124",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Robledillo de la Jara",
+      "año": "2025",
+      "entidad_nombre": "Robledillo de la Jara",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "125",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Robledo de Chavela",
+      "año": "2025",
+      "entidad_nombre": "Robledo de Chavela",
+      "fecha_festivo": "2025-08-21"
+    },
+    {
+      "municipio_codigo": "125",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Robledo de Chavela",
+      "año": "2025",
+      "entidad_nombre": "Robledo de Chavela",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "126",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Robregordo",
+      "año": "2025",
+      "entidad_nombre": "Robregordo",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "126",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Robregordo",
+      "año": "2025",
+      "entidad_nombre": "Robregordo",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "128",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Rozas de Puerto Real",
+      "año": "2025",
+      "entidad_nombre": "Rozas de Puerto Real",
+      "fecha_festivo": "2025-02-05"
+    },
+    {
+      "municipio_codigo": "128",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Rozas de Puerto Real",
+      "año": "2025",
+      "entidad_nombre": "Rozas de Puerto Real",
+      "fecha_festivo": "2025-06-24"
+    },
+    {
+      "municipio_codigo": "129",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Agustín del Guadalix",
+      "año": "2025",
+      "entidad_nombre": "San Agustín del Guadalix",
+      "fecha_festivo": "2025-09-19"
+    },
+    {
+      "municipio_codigo": "129",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Agustín del Guadalix",
+      "año": "2025",
+      "entidad_nombre": "San Agustín del Guadalix",
+      "fecha_festivo": "2025-09-22"
+    },
+    {
+      "municipio_codigo": "130",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Fernando de Henares",
+      "año": "2025",
+      "entidad_nombre": "San Fernando de Henares",
+      "fecha_festivo": "2025-05-29"
+    },
+    {
+      "municipio_codigo": "130",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Fernando de Henares",
+      "año": "2025",
+      "entidad_nombre": "San Fernando de Henares",
+      "fecha_festivo": "2025-05-30"
+    },
+    {
+      "municipio_codigo": "131",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Lorenzo de El Escorial",
+      "año": "2025",
+      "entidad_nombre": "San Lorenzo de El Escorial",
+      "fecha_festivo": "2025-08-11"
+    },
+    {
+      "municipio_codigo": "131",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Lorenzo de El Escorial",
+      "año": "2025",
+      "entidad_nombre": "San Lorenzo de El Escorial",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "132",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Martín de la Vega",
+      "año": "2025",
+      "entidad_nombre": "San Martín de la Vega",
+      "fecha_festivo": "2025-04-25"
+    },
+    {
+      "municipio_codigo": "132",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Martín de la Vega",
+      "año": "2025",
+      "entidad_nombre": "San Martín de la Vega",
+      "fecha_festivo": "2025-04-28"
+    },
+    {
+      "municipio_codigo": "133",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Martín de Valdeiglesias",
+      "año": "2025",
+      "entidad_nombre": "San Martín de Valdeiglesias",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "133",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Martín de Valdeiglesias",
+      "año": "2025",
+      "entidad_nombre": "San Martín de Valdeiglesias",
+      "fecha_festivo": "2025-11-11"
+    },
+    {
+      "municipio_codigo": "134",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Sebastián de los Reyes",
+      "año": "2025",
+      "entidad_nombre": "San Sebastián de los Reyes",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "134",
+      "entidad_codigo": "00",
+      "municipio_nombre": "San Sebastián de los Reyes",
+      "año": "2025",
+      "entidad_nombre": "San Sebastián de los Reyes",
+      "fecha_festivo": "2025-08-28"
+    },
+    {
+      "municipio_codigo": "135",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Santa María de la Alameda",
+      "año": "2025",
+      "entidad_nombre": "Santa María de la Alameda",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "135",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Santa María de la Alameda",
+      "año": "2025",
+      "entidad_nombre": "Santa María de la Alameda",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "136",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Santorcaz",
+      "año": "2025",
+      "entidad_nombre": "Santorcaz",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "136",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Santorcaz",
+      "año": "2025",
+      "entidad_nombre": "Santorcaz",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "140",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Serranillos del Valle",
+      "año": "2025",
+      "entidad_nombre": "Serranillos del Valle",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "140",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Serranillos del Valle",
+      "año": "2025",
+      "entidad_nombre": "Serranillos del Valle",
+      "fecha_festivo": "2025-09-03"
+    },
+    {
+      "municipio_codigo": "141",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Sevilla la Nueva",
+      "año": "2025",
+      "entidad_nombre": "Sevilla la Nueva",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "141",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Sevilla la Nueva",
+      "año": "2025",
+      "entidad_nombre": "Sevilla la Nueva",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "143",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Somosierra",
+      "año": "2025",
+      "entidad_nombre": "Somosierra",
+      "fecha_festivo": "2025-08-01"
+    },
+    {
+      "municipio_codigo": "143",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Somosierra",
+      "año": "2025",
+      "entidad_nombre": "Somosierra",
+      "fecha_festivo": "2025-08-04"
+    },
+    {
+      "municipio_codigo": "144",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Soto del Real",
+      "año": "2025",
+      "entidad_nombre": "Soto del Real",
+      "fecha_festivo": "2025-08-04"
+    },
+    {
+      "municipio_codigo": "144",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Soto del Real",
+      "año": "2025",
+      "entidad_nombre": "Soto del Real",
+      "fecha_festivo": "2025-10-07"
+    },
+    {
+      "municipio_codigo": "146",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Tielmes",
+      "año": "2025",
+      "entidad_nombre": "Tielmes",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "146",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Tielmes",
+      "año": "2025",
+      "entidad_nombre": "Tielmes",
+      "fecha_festivo": "2025-08-06"
+    },
+    {
+      "municipio_codigo": "147",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Titulcia",
+      "año": "2025",
+      "entidad_nombre": "Titulcia",
+      "fecha_festivo": "2025-09-01"
+    },
+    {
+      "municipio_codigo": "147",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Titulcia",
+      "año": "2025",
+      "entidad_nombre": "Titulcia",
+      "fecha_festivo": "2025-09-02"
+    },
+    {
+      "municipio_codigo": "148",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrejón de Ardoz",
+      "año": "2025",
+      "entidad_nombre": "Torrejón de Ardoz",
+      "fecha_festivo": "2025-06-23"
+    },
+    {
+      "municipio_codigo": "148",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrejón de Ardoz",
+      "año": "2025",
+      "entidad_nombre": "Torrejón de Ardoz",
+      "fecha_festivo": "2025-06-24"
+    },
+    {
+      "municipio_codigo": "149",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrejón de la Calzada",
+      "año": "2025",
+      "entidad_nombre": "Torrejón de la Calzada",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "149",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrejón de la Calzada",
+      "año": "2025",
+      "entidad_nombre": "Torrejón de la Calzada",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "150",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrejón de Velasco",
+      "año": "2025",
+      "entidad_nombre": "Torrejón de Velasco",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "150",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrejón de Velasco",
+      "año": "2025",
+      "entidad_nombre": "Torrejón de Velasco",
+      "fecha_festivo": "2025-10-10"
+    },
+    {
+      "municipio_codigo": "151",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrelaguna",
+      "año": "2025",
+      "entidad_nombre": "Torrelaguna",
+      "fecha_festivo": "2025-09-01"
+    },
+    {
+      "municipio_codigo": "151",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrelaguna",
+      "año": "2025",
+      "entidad_nombre": "Torrelaguna",
+      "fecha_festivo": "2025-09-02"
+    },
+    {
+      "municipio_codigo": "152",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrelodones",
+      "año": "2025",
+      "entidad_nombre": "Torrelodones",
+      "fecha_festivo": "2025-07-16"
+    },
+    {
+      "municipio_codigo": "152",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torrelodones",
+      "año": "2025",
+      "entidad_nombre": "Torrelodones",
+      "fecha_festivo": "2025-08-14"
+    },
+    {
+      "municipio_codigo": "153",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torremocha de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Torremocha de Jarama",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "153",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torremocha de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Torremocha de Jarama",
+      "fecha_festivo": "2025-05-16"
+    },
+    {
+      "municipio_codigo": "154",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torres de la Alameda",
+      "año": "2025",
+      "entidad_nombre": "Torres de la Alameda",
+      "fecha_festivo": "2025-10-06"
+    },
+    {
+      "municipio_codigo": "154",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Torres de la Alameda",
+      "año": "2025",
+      "entidad_nombre": "Torres de la Alameda",
+      "fecha_festivo": "2025-10-07"
+    },
+    {
+      "municipio_codigo": "903",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Tres Cantos",
+      "año": "2025",
+      "entidad_nombre": "Tres Cantos",
+      "fecha_festivo": "2025-03-21"
+    },
+    {
+      "municipio_codigo": "903",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Tres Cantos",
+      "año": "2025",
+      "entidad_nombre": "Tres Cantos",
+      "fecha_festivo": "2025-06-24"
+    },
+    {
+      "municipio_codigo": "155",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdaracete",
+      "año": "2025",
+      "entidad_nombre": "Valdaracete",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "155",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdaracete",
+      "año": "2025",
+      "entidad_nombre": "Valdaracete",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "156",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdeavero",
+      "año": "2025",
+      "entidad_nombre": "Valdeavero",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "156",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdeavero",
+      "año": "2025",
+      "entidad_nombre": "Valdeavero",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "157",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdelaguna",
+      "año": "2025",
+      "entidad_nombre": "Valdelaguna",
+      "fecha_festivo": "2025-04-28"
+    },
+    {
+      "municipio_codigo": "157",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdelaguna",
+      "año": "2025",
+      "entidad_nombre": "Valdelaguna",
+      "fecha_festivo": "2025-07-16"
+    },
+    {
+      "municipio_codigo": "158",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemanco",
+      "año": "2025",
+      "entidad_nombre": "Valdemanco",
+      "fecha_festivo": "2025-07-16"
+    },
+    {
+      "municipio_codigo": "158",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemanco",
+      "año": "2025",
+      "entidad_nombre": "Valdemanco",
+      "fecha_festivo": "2025-08-16"
+    },
+    {
+      "municipio_codigo": "159",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemaqueda",
+      "año": "2025",
+      "entidad_nombre": "Valdemaqueda",
+      "fecha_festivo": "2025-03-05"
+    },
+    {
+      "municipio_codigo": "159",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemaqueda",
+      "año": "2025",
+      "entidad_nombre": "Valdemaqueda",
+      "fecha_festivo": "2025-08-18"
+    },
+    {
+      "municipio_codigo": "160",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemorillo",
+      "año": "2025",
+      "entidad_nombre": "Valdemorillo",
+      "fecha_festivo": "2025-02-03"
+    },
+    {
+      "municipio_codigo": "160",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemorillo",
+      "año": "2025",
+      "entidad_nombre": "Valdemorillo",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "161",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemoro",
+      "año": "2025",
+      "entidad_nombre": "Valdemoro",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "161",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdemoro",
+      "año": "2025",
+      "entidad_nombre": "Valdemoro",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "162",
+      "entidad_codigo": "01",
+      "municipio_nombre": "Valdeolmos-Alalpardo",
+      "año": "2025",
+      "entidad_nombre": "Alalpardo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "162",
+      "entidad_codigo": "01",
+      "municipio_nombre": "Valdeolmos-Alalpardo",
+      "año": "2025",
+      "entidad_nombre": "Alalpardo",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "162",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdeolmos-Alalpardo",
+      "año": "2025",
+      "entidad_nombre": "Valdeolmos-Alalpardo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "162",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdeolmos-Alalpardo",
+      "año": "2025",
+      "entidad_nombre": "Valdeolmos-Alalpardo",
+      "fecha_festivo": "2025-08-11"
+    },
+    {
+      "municipio_codigo": "163",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdepiélagos",
+      "año": "2025",
+      "entidad_nombre": "Valdepiélagos",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "163",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdepiélagos",
+      "año": "2025",
+      "entidad_nombre": "Valdepiélagos",
+      "fecha_festivo": "2025-05-16"
+    },
+    {
+      "municipio_codigo": "164",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdetorres de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Valdetorres de Jarama",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "164",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdetorres de Jarama",
+      "año": "2025",
+      "entidad_nombre": "Valdetorres de Jarama",
+      "fecha_festivo": "2025-09-15"
+    },
+    {
+      "municipio_codigo": "165",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdilecha",
+      "año": "2025",
+      "entidad_nombre": "Valdilecha",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "165",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valdilecha",
+      "año": "2025",
+      "entidad_nombre": "Valdilecha",
+      "fecha_festivo": "2025-11-11"
+    },
+    {
+      "municipio_codigo": "166",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valverde de Alcalá",
+      "año": "2025",
+      "entidad_nombre": "Valverde de Alcalá",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "166",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Valverde de Alcalá",
+      "año": "2025",
+      "entidad_nombre": "Valverde de Alcalá",
+      "fecha_festivo": "2025-09-05"
+    },
+    {
+      "municipio_codigo": "167",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Velilla de San Antonio",
+      "año": "2025",
+      "entidad_nombre": "Velilla de San Antonio",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "167",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Velilla de San Antonio",
+      "año": "2025",
+      "entidad_nombre": "Velilla de San Antonio",
+      "fecha_festivo": "2025-09-30"
+    },
+    {
+      "municipio_codigo": "169",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Venturada",
+      "año": "2025",
+      "entidad_nombre": "Venturada",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "169",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Venturada",
+      "año": "2025",
+      "entidad_nombre": "Venturada",
+      "fecha_festivo": "2025-06-24"
+    },
+    {
+      "municipio_codigo": "171",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villa del Prado",
+      "año": "2025",
+      "entidad_nombre": "Villa del Prado",
+      "fecha_festivo": "2025-04-21"
+    },
+    {
+      "municipio_codigo": "171",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villa del Prado",
+      "año": "2025",
+      "entidad_nombre": "Villa del Prado",
+      "fecha_festivo": "2025-09-08"
+    },
+    {
+      "municipio_codigo": "170",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villaconejos",
+      "año": "2025",
+      "entidad_nombre": "Villaconejos",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "170",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villaconejos",
+      "año": "2025",
+      "entidad_nombre": "Villaconejos",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "172",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villalbilla",
+      "año": "2025",
+      "entidad_nombre": "Villalbilla",
+      "fecha_festivo": "2025-09-25"
+    },
+    {
+      "municipio_codigo": "172",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villalbilla",
+      "año": "2025",
+      "entidad_nombre": "Villalbilla",
+      "fecha_festivo": "2025-09-26"
+    },
+    {
+      "municipio_codigo": "173",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villamanrique de Tajo",
+      "año": "2025",
+      "entidad_nombre": "Villamanrique de Tajo",
+      "fecha_festivo": "2025-04-25"
+    },
+    {
+      "municipio_codigo": "173",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villamanrique de Tajo",
+      "año": "2025",
+      "entidad_nombre": "Villamanrique de Tajo",
+      "fecha_festivo": "2025-09-12"
+    },
+    {
+      "municipio_codigo": "174",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villamanta",
+      "año": "2025",
+      "entidad_nombre": "Villamanta",
+      "fecha_festivo": "2025-01-31"
+    },
+    {
+      "municipio_codigo": "174",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villamanta",
+      "año": "2025",
+      "entidad_nombre": "Villamanta",
+      "fecha_festivo": "2025-05-23"
+    },
+    {
+      "municipio_codigo": "175",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villamantilla",
+      "año": "2025",
+      "entidad_nombre": "Villamantilla",
+      "fecha_festivo": "2025-09-29"
+    },
+    {
+      "municipio_codigo": "175",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villamantilla",
+      "año": "2025",
+      "entidad_nombre": "Villamantilla",
+      "fecha_festivo": "2025-12-30"
+    },
+    {
+      "municipio_codigo": "176",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villanueva de la Cañada",
+      "año": "2025",
+      "entidad_nombre": "Villanueva de la Cañada",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "176",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villanueva de la Cañada",
+      "año": "2025",
+      "entidad_nombre": "Villanueva de la Cañada",
+      "fecha_festivo": "2025-07-28"
+    },
+    {
+      "municipio_codigo": "178",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villanueva de Perales",
+      "año": "2025",
+      "entidad_nombre": "Villanueva de Perales",
+      "fecha_festivo": "2025-05-05"
+    },
+    {
+      "municipio_codigo": "178",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villanueva de Perales",
+      "año": "2025",
+      "entidad_nombre": "Villanueva de Perales",
+      "fecha_festivo": "2025-12-09"
+    },
+    {
+      "municipio_codigo": "177",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villanueva del Pardillo",
+      "año": "2025",
+      "entidad_nombre": "Villanueva del Pardillo",
+      "fecha_festivo": "2025-10-16"
+    },
+    {
+      "municipio_codigo": "177",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villanueva del Pardillo",
+      "año": "2025",
+      "entidad_nombre": "Villanueva del Pardillo",
+      "fecha_festivo": "2025-10-17"
+    },
+    {
+      "municipio_codigo": "179",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villar del Olmo",
+      "año": "2025",
+      "entidad_nombre": "Villar del Olmo",
+      "fecha_festivo": "2025-05-15"
+    },
+    {
+      "municipio_codigo": "179",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villar del Olmo",
+      "año": "2025",
+      "entidad_nombre": "Villar del Olmo",
+      "fecha_festivo": "2025-09-22"
+    },
+    {
+      "municipio_codigo": "180",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villarejo de Salvanés",
+      "año": "2025",
+      "entidad_nombre": "Villarejo de Salvanés",
+      "fecha_festivo": "2025-09-01"
+    },
+    {
+      "municipio_codigo": "180",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villarejo de Salvanés",
+      "año": "2025",
+      "entidad_nombre": "Villarejo de Salvanés",
+      "fecha_festivo": "2025-10-07"
+    },
+    {
+      "municipio_codigo": "181",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villaviciosa de Odón",
+      "año": "2025",
+      "entidad_nombre": "Villaviciosa de Odón",
+      "fecha_festivo": "2025-01-20"
+    },
+    {
+      "municipio_codigo": "181",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villaviciosa de Odón",
+      "año": "2025",
+      "entidad_nombre": "Villaviciosa de Odón",
+      "fecha_festivo": "2025-09-22"
+    },
+    {
+      "municipio_codigo": "182",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villavieja del Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Villavieja del Lozoya",
+      "fecha_festivo": "2025-08-25"
+    },
+    {
+      "municipio_codigo": "182",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Villavieja del Lozoya",
+      "año": "2025",
+      "entidad_nombre": "Villavieja del Lozoya",
+      "fecha_festivo": "2025-12-05"
+    },
+    {
+      "municipio_codigo": "183",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Zarzalejo",
+      "año": "2025",
+      "entidad_nombre": "Zarzalejo",
+      "fecha_festivo": "2025-06-30"
+    },
+    {
+      "municipio_codigo": "183",
+      "entidad_codigo": "00",
+      "municipio_nombre": "Zarzalejo",
+      "año": "2025",
+      "entidad_nombre": "Zarzalejo",
+      "fecha_festivo": "2025-09-08"
+    }
+  ]
+}
