@@ -15,3 +15,4 @@
   3. Cómputo de horas
   4. Lista de trabajadores (manager visible)
   5. Fichajes trabajadores (manager visible)
+<img width="835" alt="screenshot" src="https://github.com/user-attachments/assets/6201caa1-c257-4cc4-9118-a9b262039312">
